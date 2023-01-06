@@ -12,10 +12,9 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="p-0 m-0">
-    <Renderer width="400"
+  <div class="w-full h-screen">
+    <Renderer resize
               orbit-ctrl="true"
-              height="400"
               ref="renderer">
       <Camera :position="{ z: 10 }" />
         <Scene background="#ffffff">
