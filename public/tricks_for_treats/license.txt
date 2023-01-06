@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tricks for Treats
+* source:	https://sketchfab.com/3d-models/tricks-for-treats-d474876280bf42daae1c1b7d4542d28d
+* author:	JessSwynn (https://sketchfab.com/JessSwynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tricks for Treats" (https://sketchfab.com/3d-models/tricks-for-treats-d474876280bf42daae1c1b7d4542d28d) by JessSwynn (https://sketchfab.com/JessSwynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
